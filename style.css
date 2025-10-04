@@ -1025,7 +1025,7 @@ footer{
 
   .data>p {
     font-size: 26px;
-    font-weight: 500;
+    /* font-weight: 500; */
     line-height: 1.4;
     font-family: cursive;
   }
