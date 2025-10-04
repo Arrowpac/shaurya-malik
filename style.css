@@ -1043,6 +1043,9 @@ footer{
     padding: 0;
   }
 
+  .para{
+    font-size: 15px;
+  }
   .stuff {
     height: auto;
     margin-bottom: 30px;
