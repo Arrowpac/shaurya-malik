@@ -1079,9 +1079,21 @@ footer{
     text-align: center;
   }
 
+  .email>p{
+    font-size: 16px;
+  }
+  .github>p{
+    font-size: 16px;
+  }
+  .linkedin>p{
+    font-size: 16px;
+  }
+  .phone>p{
+    font-size: 16px;
+  }
   .info1>p{
     margin-bottom: 20px;
-    font-size: 13px;
+    font-size: 15px;
   }
   
   .buttons {
