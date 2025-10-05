@@ -116,6 +116,7 @@ section {
 .link {
   grid-column: 1/2;
   margin-top: 3vh;
+  padding-top: 30px;
   margin-bottom: 10vh;
 }
 
