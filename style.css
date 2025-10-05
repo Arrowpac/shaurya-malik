@@ -115,11 +115,12 @@ section {
 
 .link {
   grid-column: 1/2;
-  margin-top: 5vh;
+  margin-top: 3vh;
   margin-bottom: 10vh;
 }
 
 .button {
+  margin-top: 25px;
   margin-left: 21px;
   padding: 12px 22px;
   background-color: bisque;
